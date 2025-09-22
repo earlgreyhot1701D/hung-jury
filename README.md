@@ -1,8 +1,8 @@
 # Hung Jury
 
-** When automation can’t reach a verdict. **
+## When automation can’t reach a verdict. 
 
-** Automation isn’t always possible, but exploring the limits creates clarity. **
+## Automation isn’t always possible, but exploring the limits creates clarity. **
 
 This repository is a scrubbed proof-of-concept showing my attempt to automate the **Judical Council of California's Annual Jury Data Report (JDR)** process.
 
