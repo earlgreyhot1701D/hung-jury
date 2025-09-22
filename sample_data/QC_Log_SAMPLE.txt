@@ -1,0 +1,18 @@
+=== QUALITY CONTROL SUMMARY ===
+Total Checks: 12
+Passed: 12
+Failed: 0
+Warnings: 0
+================================
+[PASS] (Q3+Q5) = Q4+Q6+Q7+Q9+Q10+Q11+Q12+Q13
+[PASS] Q7 breakdown matches total
+[PASS] Q9 breakdown matches total
+[PASS] Q13 breakdown matches total
+[PASS] Q14 breakdown matches total
+[PASS] Q14C breakdown matches total
+[PASS] Q16 breakdown matches total
+[PASS] Q19 breakdown matches total
+[PASS] Q26 breakdown matches total
+[PASS] Q27A breakdown matches total
+[PASS] Q28 breakdown matches total
+[PASS] Q29A breakdown matches total
