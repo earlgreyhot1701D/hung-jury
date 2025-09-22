@@ -2,7 +2,9 @@
 
 ## When automation can’t reach a verdict. 
 
+
 ## Automation isn’t always possible, but exploring the limits creates clarity. **
+
 
 This repository is a scrubbed proof-of-concept showing my attempt to automate the **Judical Council of California's Annual Jury Data Report (JDR)** process.
 
@@ -46,3 +48,8 @@ Sensitive or proprietary logic has been removed, but the structure and comments 
 - **lean_jdr.py** → Runs 12 JCC Manual quality-control rules and exports standardized data.  
 
 These stubs demonstrate the project’s architecture without exposing internal details.
+
+## 🤖 AI Assistance
+This project was developed with the assistance of ChatGPT as a build partner.  
+All decisions, testing, and conclusions are my own.
+
