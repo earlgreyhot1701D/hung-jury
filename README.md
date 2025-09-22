@@ -1,10 +1,10 @@
 # Hung Jury
 
-**Tagline:** When automation can’t reach a verdict.
+** When automation can’t reach a verdict. **
 
-**Tagline:** Automation isn’t always possible, but exploring the limits creates clarity.
+** Automation isn’t always possible, but exploring the limits creates clarity. **
 
-This repository is a scrubbed proof-of-concept showing my attempt to automate the **Annual Jury Data Report (JDR)** process.
+This repository is a scrubbed proof-of-concept showing my attempt to automate the **Judical Council of California's Annual Jury Data Report (JDR)** process.
 
 The project explored extracting data from Crystal Reports PDFs, cleaning it, and validating it against Judicial Council (JCC) business rules.
 
